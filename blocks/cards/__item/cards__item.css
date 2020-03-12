@@ -1,6 +1,5 @@
 .cards__item{
-    width: 240px;
+    max-width: 240px;
     box-sizing: border-box;
-    margin-top: 60px;
     text-align: center;
 }
